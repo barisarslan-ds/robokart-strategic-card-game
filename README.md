@@ -1,16 +1,14 @@
-## Nasıl Çalıştırılır?
+## How to Run?
 
-1. Python 3.9+ ve Pygame yüklü olmalıdır.
-2. Proje klasörüne gidin ve aşağıdaki komutu çalıştırın:
+1. Python 3.9+ and Pygame must be installed.
+2. Navigate to the project folder and run the following command:
 
-```bash
 python main.py
-```
 
-Kontroller
-1. A → Yeni kart yerleştir
-2. 1 / 2 → Oyuncu kart seçimi
-3. ← / → → Bilgisayar kart seçimi
-4. SPACE → Saldırı
-5. R → Yeniden başlat
-6. ESC → Çıkış
+Controls
+1. A → Place a new card
+2. 1 / 2 → Player card selection
+3. ← / → → Computer card selection
+4. SPACE → Attack
+5. R → Restart
+6. ESC → Exit
